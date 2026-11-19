@@ -1,0 +1,25 @@
+
+# Visual Studio local files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.pch
+
+# Temporary files
+*.tmp
+*.log
